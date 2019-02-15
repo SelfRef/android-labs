@@ -1,3 +1,17 @@
+---
+code_name: TM-S_LISM_MOB_JAV
+create_date: 2017-05
+release_date: 2017-05
+author: TM
+author_site: timsmanter.net
+editor: Android Studio
+language: Java
+framework: Android SDK
+locale: pl_PL
+license: MIT
+status: [Dev, Sample]
+---
+
 # Android apps from laboratories
 
 App 1 | App 2 | App 3
